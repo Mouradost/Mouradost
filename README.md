@@ -1,9 +1,9 @@
 ### Hi there, I'm Lablack Mourad 👋
 
 - 🔭 I’m currently working on traffic flow forecasting
-- 🌱 I’m currently learning Tensorflow, Python, Pytorch
+- 🌱 I’m currently learning Tensorflow, Python, Pytorch, Rust
 - 👯 I’m looking to collaborate on Github
-- 🤔 I’m looking for help with Graph Neural Network
+- 🤔 I’m looking for help with Probabilistic Diffusion Models and deep understanding of the idiomatique way of writing Rust programs
 - 💬 Ask me about Spatio-Temporal Neural Network
 - 📫 How to reach me: [ResearchGate](https://www.researchgate.net/profile/Mourad-Lablack), [Linkedin](https://www.linkedin.com/in/mouradost/), [Reddit](https://www.reddit.com/user/Mouradost), [YouTube](https://www.youtube.com/channel/UCfy4kfBNPhFTJb6AIirukhg), [Twitter](https://twitter.com/Mouradost)
 - 😄 Pronouns: He/His
