@@ -11,7 +11,8 @@
 
 
 ## My programming languages
-<div style="width=100%">
+
+<div align="center">
   <img alt="Rust" src="https://img.shields.io/badge/rust-%23FF6F00.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>
@@ -27,7 +28,8 @@
 </div>
 
 ## My framework/Libraries
-<div style="width=100%">
+
+<div align="center">
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
   <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
   <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
@@ -37,7 +39,8 @@
 </div>
 
 ## My databases
-<div style="width=100%">
+
+<div align="center">
   <img alt="SurrealDB" src="https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white" />
   <img alt="Postgres" src="https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="Microsoft Access" src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" />
@@ -47,7 +50,8 @@
 
 
 ## My design/writing softwares
-<div style="width=100%">
+
+<div align="center">
   <img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/> 
   <img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white"/> 
   <img alt="Inkscape" src="https://img.shields.io/badge/inkscape-000000.svg?&style=for-the-badge&logo=inkscape&logoColor=white"/> 
@@ -59,14 +63,16 @@
 </div>
 
 ## My IDEs
-<div style="width=100%">
+
+<div align="center">
   <img alt="NeoVim" src="https://img.shields.io/badge/neovim-57A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
   <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 </div>
 
 ## My operating systems
-<div style="width=100%">
+
+<div align="center">
   <img alt="Fedora" src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
   <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
@@ -74,10 +80,16 @@
 </div>
 
 ## Other not frequently used
-<div style="width=100%">
+
+<div align="center">
   <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
   <img alt="Raspberry Pi" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" />
   <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
   <img alt="Unreal Engine" src="https://img.shields.io/badge/unrealengine-%23313131.svg?&style=for-the-badge&logo=unrealengine&logoColor=white"/>
+</div>
+
+## Stats
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mouradost&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </div>
